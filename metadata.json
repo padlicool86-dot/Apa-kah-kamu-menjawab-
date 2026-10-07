@@ -1,0 +1,6 @@
+{
+  "name": "Bisa Kah Kamu Menjawab?!",
+  "description": "Game Quest trivia bertema Biru & Oranye oleh Fadlly bersama Lembaga Pembuat bersumber Gemini dengan musik bebas hak cipta dan animasi keyboard melayang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
